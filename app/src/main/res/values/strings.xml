@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="current">Current</string>
+    <string name="forecast">Forecast</string>
+    <string name="appid">a532f0b315a52d487f046560385f5990</string>
+</resources>
